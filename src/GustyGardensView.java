@@ -7,11 +7,8 @@ import javax.swing.*;
 /**
  * 
  * @author Shawn Wei
- * @version January 23, 2022
- * @course ICS4U1
  * @description This program allows an online shopper to decrypt and encrypt
  *              their information safely while making online purchases/orders
- * @CULMINATING_PROJECT
  */
 public class GustyGardensView extends JFrame {
 	// JPanels
