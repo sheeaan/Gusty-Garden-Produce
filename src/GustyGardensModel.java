@@ -1,8 +1,6 @@
 /**
  * 
  * @author Shawn Wei
- * @version January 23, 2022
- * @course ICS4U1
  * @description This model class does all the encrypting for the files, ensuring
  *              that the information kept by the user is safely stored in a file
  */
