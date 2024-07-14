@@ -2,12 +2,8 @@ import javax.swing.JFrame;
 /**
  * 
  * @author Shawn Wei (with help from Ms. Huynh :)
- * @version January 23, 2022
- * @course ICS4U1
  * @description This program allows an online shopper to decrypt and encrypt
- *              their information safely while making online purchases/orders
- * @CULMINATING_PROJECT
- * I hope you like my program Ms. Huynh!!
+ *              their information safely while making online purchases/orders. It's my own interesting twist to cyphering.
  */
 public class GustyGardensRun {
 	public static void main(String[] args) {
