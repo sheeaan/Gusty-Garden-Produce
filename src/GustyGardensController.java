@@ -8,8 +8,6 @@ import javax.swing.event.*;
 /**
  * 
  * @author Shawn Wei
- * @version January 23, 2022
- * @course ICS4U1
  * @description This controller class connects the view and the model to work together
  */
 public class GustyGardensController implements ActionListener, ItemListener, ListSelectionListener {
