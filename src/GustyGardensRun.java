@@ -1,9 +1,10 @@
 import javax.swing.JFrame;
 /**
  * 
- * @author Shawn Wei (with help from Ms. Huynh :)
+ * @author Shawn Wei 
  * @description This program allows an online shopper to decrypt and encrypt
  *              their information safely while making online purchases/orders. It's my own interesting twist to cyphering.
+ * Gusty Gardens was based off of one my favaourite childhood games, Super Mario Galaxy
  */
 public class GustyGardensRun {
 	public static void main(String[] args) {
